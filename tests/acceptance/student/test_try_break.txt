@@ -1,0 +1,36 @@
+play_again
+undo
+redo
+redo
+undo
+undo
+new_game("1", "a41307")
+new_game("aaaa", "2a")
+play("1", 1)
+play("mi", 2)
+new_game("mike", "donald")
+undo
+redo
+redo
+play("donald", 22)
+play("mike", 6)
+play("donald", 7)
+play("mike", 2)
+undo
+play("mike", 7)
+play("mike", 1)
+undo
+redo
+redo
+redo
+redo
+undo
+undo
+undo
+undo
+play_again
+new_game("a", "b")
+play("a", 9)
+undo
+new_game("b", "b")
+new_game("a", "b")

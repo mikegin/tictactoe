@@ -1,0 +1,14 @@
+new_game("Xavier","Ora")
+play("Xavier",1)
+play("Ora",1)
+----------
+new_game("1", "2")
+----------
+new_game("", "")
+----------
+new_game("Xavier","Ora")
+play("Mark", 1)
+----------
+new_game("Ora", "Ora")
+
+

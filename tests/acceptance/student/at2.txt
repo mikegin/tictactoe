@@ -1,0 +1,5 @@
+new_game("a", "b")
+play("a", 1)
+undo
+play("a", 2)
+undo
